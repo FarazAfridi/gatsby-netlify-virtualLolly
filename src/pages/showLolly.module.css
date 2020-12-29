@@ -1,0 +1,10 @@
+.lollyContainer {
+    text-align: center;
+    margin: auto;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    min-width: 300px;
+    width: 700px;
+    padding: 20px;
+}
