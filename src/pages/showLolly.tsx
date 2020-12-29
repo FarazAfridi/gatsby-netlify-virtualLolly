@@ -3,7 +3,6 @@ import Lolly from "../components/lolly";
 import styles from "./showLolly.module.css";
 
 const ShowLolly: React.FC = ({ location }: any) => {
-    console.log(location.state.msg)
     return (
         <div className={styles.lollyContainer}>
             <h1>LOLLY PAGE</h1>
